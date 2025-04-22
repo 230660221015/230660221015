@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Repository Praktikum
+=======
 # SI-IVA
 Repository Pemrograman Berbasis Web Front End
 
@@ -69,3 +72,4 @@ Contoh struktur direktori sebagai berikut:
 <a href="#"><img src="https://img.shields.io/github/contributors/PBWFEND/SI-IVA" alt="Contributors"></a>
 <a href="#"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PBWFEND/SI-IVA"></a>
 </p>
+>>>>>>> upstream/main
